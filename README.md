@@ -1,5 +1,4 @@
 My goal is to imitate the game `happy glass`: https://www.youtube.com/watch?v=fd8MWwT7ReI
-
 # Happy Glass
 The game is implemented using java with [processing](https://processing.org/)
 with help of the library [box2d](https://github.com/shiffman/Box2D-for-Processing)
