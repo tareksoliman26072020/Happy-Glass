@@ -1,8 +1,8 @@
+My goal is to imitate the game `happy glass`: https://www.youtube.com/watch?v=fd8MWwT7ReI
+
 # Happy Glass
 The game is implemented using java with [processing](https://processing.org/)
 with help of the library [box2d](https://github.com/shiffman/Box2D-for-Processing)
-
-### My main goal for this assignment is to imitate the game `happy glass`: https://www.youtube.com/watch?v=fd8MWwT7ReI
 
 - #### The game consists of a water tap, boundaries and a an object which collects the falling water.
 - #### The objective of the game is to add a boundary (using the mouse), to re-direct the water in the direction of the "cup".
